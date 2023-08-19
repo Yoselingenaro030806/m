@@ -2,7 +2,7 @@
 
 .navbar {
     padding: 2rem;
-    background: color: 6096BA;
+    background-color: #F2E3D5;
   }
   
   .navbar-collapse {
@@ -25,13 +25,13 @@
   }
   
   .seccion-oscura {
-    color: black;
-    background-color:rgb(109, 153, 235);
+    color:whitesmoke;
+    background-color: #1E3057;
   }
   
   .seccion-clara {
     color: black;
-    background-color:#d6d1af;
+    background-color:#8BA3D6;
   }
   
   .seccion-titulo {
@@ -65,7 +65,7 @@
   /* Seccion Hero */
   
   .hero {
-    background-color:rgb(194, 183, 183);
+    background-color:#66789D;
     min-height: 450px;
     text-align: center;
   }
@@ -82,7 +82,7 @@
   
   .hero-principal h2 {
     font-size: 1.5rem;
-    color: #615151;
+    color: #6e1818;
   }
   
   /* Sobre mi */
@@ -114,14 +114,14 @@
   }
   
   .experiencia .columna:hover {
-    color: #f4065e;
+    color: #026773;
     background-color: #d0dcb3;
   }
   
   .experiencia i {
     font-size: 2.5rem;
-    color: #f4065e;
-    background-color: #ff97ca;
+    color: #1c2f9c;
+    background-color:whitesmoke;
     padding: 8px 19px;
     border-radius: 50%;
   }
@@ -265,9 +265,9 @@
   
   .contacto .rectangulo {
     margin-top: -5rem;
-    background-color:#bf8e83;
+    background-color:#F2E3D5;
     border-radius: 10px;
-    box-shadow: 0px 1px 4px 1px white;
+    box-shadow: 0px 1px 4px 1px black;
   }
   
   .contacto .row {
@@ -277,15 +277,15 @@
   }
   
   .contacto .descripcion {
-    color: white;
+    color:black;
     font-size: 1.2rem;
   }
   
   .contacto button {
-    color: #f198ef;
+    color: black;
     font-weight: bold;
     background-color: transparent;
-    border: 2px solid white;
+    border: 2px solid black;
     padding: 1.25em 2em;
     margin: 10px;
     border-radius: 100px;
@@ -293,12 +293,12 @@
   }
   
   .contacto button:hover {
-    background-color: white;
+    background-color:#026773;
     color: black;
   }
   
   .contacto button i {
-    color: #f4065e;
+    color: black;
     font-size: 1.3rem;
     transition: all 0.2s ease-in-out;
   }
@@ -346,8 +346,8 @@
   }
   
   .iconos-redes-sociales a:hover {
-    background-color: #bf8e83;
-    border: 2px solid rgb(151, 49, 151);
+    background-color: white;
+    border: 2px solid black;
   }
   
   .iconos-redes-sociales a:hover i {
