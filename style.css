@@ -252,7 +252,7 @@
   
   .testimonio-info .cargo {
     font-size: 0.9rem;
-    color: #6f0550;
+    color: burlywood;
   }
   
   /* Contacto */
@@ -394,3 +394,7 @@
       max-width: 600px;
     }
   }
+
+ .progress{
+  background-color: #1E3057;
+ }
